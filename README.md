@@ -36,10 +36,13 @@ npm install
 
 # Run in development mode
 npx expo start
+```
 
 # have fun
 
-Preview: 
+Preview:
+![hangmann](https://github.com/user-attachments/assets/4c7b37c9-0c50-4925-91b9-41b70b4d4a5a)
+Don't judge from the looks 😒
 
 #script hehe...
 Yeshua
