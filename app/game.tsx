@@ -6,7 +6,6 @@ import {
   ActivityIndicator,
   Dimensions,
   ImageBackground,
-  ScrollView,
   StyleSheet,
   Text,
   View,
@@ -47,9 +46,9 @@ export default function GameScreen() {
       setWrongGuesses(nextWrong);
       if (nextWrong >= 6) router.replace("/lose");
     } else {
-      const allCorrect = word.split("").every((char) =>
-        updatedGuesses.includes(char)
-      );
+      const allCorrect = word
+        .split("")
+        .every((char) => updatedGuesses.includes(char));
       if (allCorrect) router.replace("/win");
     }
   };
@@ -67,28 +66,24 @@ export default function GameScreen() {
       source={require("../assets/images/background.png")}
       style={styles.backgroundImage}
     >
-      <ScrollView contentContainerStyle={styles.scrollContainer}>
-        <View style={styles.container}>
-          <Text style={styles.title}>Level {level}</Text>
+      <View style={styles.container}>
+        <Text style={styles.title}>Level {level}</Text>
 
-          <Text style={styles.subTitle}>Guess the word:</Text>
-          <HangmanFigure wrongGuesses={wrongGuesses} />
+        <Text style={styles.subTitle}>Guess the word:</Text>
+        <HangmanFigure wrongGuesses={wrongGuesses} />
 
-          <WordDisplay word={word} guessedLetters={guessedLetters} />
+        <WordDisplay word={word} guessedLetters={guessedLetters} />
 
-          <Text style={styles.hint}>💡 Hint: {hint}</Text>
+        <Text style={styles.hint}>💡 Hint: {hint}</Text>
 
-          <Text style={styles.counter}>
-            Wrong guesses: {wrongGuesses} / 6
-          </Text>
+        <Text style={styles.counter}>Wrong guesses: {wrongGuesses} / 6</Text>
 
-          <Keyboard
-            onPress={handleLetterPress}
-            guessedLetters={guessedLetters}
-            correctLetters={word.split("")}
-          />
-        </View>
-      </ScrollView>
+        <Keyboard
+          onPress={handleLetterPress}
+          guessedLetters={guessedLetters}
+          correctLetters={word.split("")}
+        />
+      </View>
     </ImageBackground>
   );
 }
@@ -97,12 +92,6 @@ const styles = StyleSheet.create({
   backgroundImage: {
     flex: 1,
     resizeMode: "cover",
-  },
-  scrollContainer: {
-    flexGrow: 1,
-    alignItems: "center",
-    justifyContent: "center",
-    paddingVertical: 20,
   },
   container: {
     flex: 1,

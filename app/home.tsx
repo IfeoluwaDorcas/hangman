@@ -1,5 +1,12 @@
 import { useRouter } from "expo-router";
-import { Image, ImageBackground, StyleSheet, Text, TouchableOpacity, View } from "react-native";
+import {
+  Image,
+  ImageBackground,
+  StyleSheet,
+  Text,
+  TouchableOpacity,
+  View,
+} from "react-native";
 
 import { useGame } from "../context/GameContext";
 
@@ -8,17 +15,22 @@ export default function HomeScreen() {
   const { level } = useGame();
 
   return (
-    <ImageBackground source={require('../assets/images/background.png')} style={styles.backgroundImage} >
-      <Text style={styles.title}>H   A   N   _   M   A   N</Text>
+    <ImageBackground
+      source={require("../assets/images/background.png")}
+      style={styles.backgroundImage}
+    >
+      <Text style={styles.title}>H A N _ M A N</Text>
       <View style={styles.container}>
-
         <Image
           source={require("../assets/hangman.png")}
           style={styles.image}
           resizeMode="contain"
         />
 
-        <TouchableOpacity style={styles.button} onPress={() => router.push("/game")}>
+        <TouchableOpacity
+          style={styles.button}
+          onPress={() => router.push("/game")}
+        >
           <Text style={styles.buttonText}>Play Game</Text>
         </TouchableOpacity>
 
@@ -33,9 +45,9 @@ export default function HomeScreen() {
 const styles = StyleSheet.create({
   backgroundImage: {
     flex: 1,
-        resizeMode: 'cover',
-        justifyContent: 'center',
-        alignItems: 'center',
+    resizeMode: "cover",
+    justifyContent: "center",
+    alignItems: "center",
   },
   container: {
     flex: 1,
@@ -44,8 +56,8 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: 26,
-    fontWeight: "900" ,
-    fontFamily: 'monospace',
+    fontWeight: "900",
+    fontFamily: "monospace",
     marginTop: 170,
     marginBottom: 50,
     color: "#2a7af9",
@@ -64,7 +76,7 @@ const styles = StyleSheet.create({
   buttonText: {
     fontSize: 24,
     color: "#fff",
-    fontFamily: 'PatrickHand_400Regular',
+    fontFamily: "PatrickHand_400Regular",
   },
   level: {
     backgroundColor: "#124aa3ff",
@@ -73,12 +85,12 @@ const styles = StyleSheet.create({
     borderTopLeftRadius: 0,
     borderTopRightRadius: 0,
     borderBottomLeftRadius: 6,
-    borderBottomRightRadius: 6
+    borderBottomRightRadius: 6,
   },
   levelText: {
     marginTop: -4,
     fontSize: 18,
     color: "#fff",
-    fontFamily: 'PatrickHand_400Regular',
+    fontFamily: "PatrickHand_400Regular",
   },
 });
