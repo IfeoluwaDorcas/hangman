@@ -1,0 +1,564 @@
+{
+  "words": [
+    {
+      "level": 1,
+      "word": "banana",
+      "hint": "a yellow fruit"
+    },
+    {
+      "level": 2,
+      "word": "camera",
+      "hint": "used to take pictures"
+    },
+    {
+      "level": 3,
+      "word": "desert",
+      "hint": "a dry sandy area"
+    },
+    {
+      "level": 4,
+      "word": "engine",
+      "hint": "machine that powers vehicles"
+    },
+    {
+      "level": 5,
+      "word": "forest",
+      "hint": "a large area with many trees"
+    },
+    {
+      "level": 6,
+      "word": "guitar",
+      "hint": "a musical instrument"
+    },
+    {
+      "level": 7,
+      "word": "helmet",
+      "hint": "protects your head"
+    },
+    {
+      "level": 8,
+      "word": "island",
+      "hint": "land surrounded by water"
+    },
+    {
+      "level": 9,
+      "word": "jungle",
+      "hint": "dense tropical forest"
+    },
+    {
+      "level": 10,
+      "word": "keyboard",
+      "hint": "used for typing"
+    },
+    {
+      "level": 11,
+      "word": "ladder",
+      "hint": "used to climb up"
+    },
+    {
+      "level": 12,
+      "word": "mountain",
+      "hint": "a very tall hill"
+    },
+    {
+      "level": 13,
+      "word": "notebook",
+      "hint": "used for writing notes"
+    },
+    {
+      "level": 14,
+      "word": "orange",
+      "hint": "a citrus fruit"
+    },
+    {
+      "level": 15,
+      "word": "pencil",
+      "hint": "used for writing or drawing"
+    },
+    {
+      "level": 16,
+      "word": "quartz",
+      "hint": "a mineral crystal"
+    },
+    {
+      "level": 17,
+      "word": "rocket",
+      "hint": "travels to space"
+    },
+    {
+      "level": 18,
+      "word": "sunset",
+      "hint": "the sun going down"
+    },
+    {
+      "level": 19,
+      "word": "tunnel",
+      "hint": "underground passage"
+    },
+    {
+      "level": 20,
+      "word": "umbrella",
+      "hint": "used in the rain"
+    },
+    {
+      "level": 21,
+      "word": "violin",
+      "hint": "a common word"
+    },
+    {
+      "level": 22,
+      "word": "window",
+      "hint": "an object"
+    },
+    {
+      "level": 23,
+      "word": "xylophone",
+      "hint": "a common word"
+    },
+    {
+      "level": 24,
+      "word": "yogurt",
+      "hint": "a fruit"
+    },
+    {
+      "level": 25,
+      "word": "airplane",
+      "hint": "a common word"
+    },
+    {
+      "level": 26,
+      "word": "bridge",
+      "hint": "a common word"
+    },
+    {
+      "level": 27,
+      "word": "castle",
+      "hint": "a common word"
+    },
+    {
+      "level": 28,
+      "word": "dragon",
+      "hint": "an animal"
+    },
+    {
+      "level": 29,
+      "word": "feather",
+      "hint": "a common word"
+    },
+    {
+      "level": 30,
+      "word": "glacier",
+      "hint": "a natural"
+    },
+    {
+      "level": 31,
+      "word": "harbor",
+      "hint": "a common word"
+    },
+    {
+      "level": 32,
+      "word": "jacket",
+      "hint": "a common word"
+    },
+    {
+      "level": 33,
+      "word": "lantern",
+      "hint": "a tool"
+    },
+    {
+      "level": 34,
+      "word": "magnet",
+      "hint": "a thing"
+    },
+    {
+      "level": 35,
+      "word": "needle",
+      "hint": "a tool"
+    },
+    {
+      "level": 36,
+      "word": "pirate",
+      "hint": "an animal"
+    },
+    {
+      "level": 37,
+      "word": "quiver",
+      "hint": "a common word"
+    },
+    {
+      "level": 38,
+      "word": "saddle",
+      "hint": "a common word"
+    },
+    {
+      "level": 39,
+      "word": "ticket",
+      "hint": "an object"
+    },
+    {
+      "level": 40,
+      "word": "unicorn",
+      "hint": "a common word"
+    },
+    {
+      "level": 41,
+      "word": "valley",
+      "hint": "a natural"
+    },
+    {
+      "level": 42,
+      "word": "whistle",
+      "hint": "a common word"
+    },
+    {
+      "level": 43,
+      "word": "zeppelin",
+      "hint": "a common word"
+    },
+    {
+      "level": 44,
+      "word": "anchor",
+      "hint": "an object"
+    },
+    {
+      "level": 45,
+      "word": "balloon",
+      "hint": "an object"
+    },
+    {
+      "level": 46,
+      "word": "candle",
+      "hint": "a common word"
+    },
+    {
+      "level": 47,
+      "word": "diamond",
+      "hint": "a thing"
+    },
+    {
+      "level": 48,
+      "word": "emerald",
+      "hint": "a common word"
+    },
+    {
+      "level": 49,
+      "word": "fossil",
+      "hint": "an object"
+    },
+    {
+      "level": 50,
+      "word": "geyser",
+      "hint": "a natural"
+    },
+    {
+      "level": 51,
+      "word": "hammock",
+      "hint": "a common word"
+    },
+    {
+      "level": 52,
+      "word": "inkwell",
+      "hint": "a common word"
+    },
+    {
+      "level": 53,
+      "word": "lighthouse",
+      "hint": "a common word"
+    },
+    {
+      "level": 54,
+      "word": "mirror",
+      "hint": "a tool"
+    },
+    {
+      "level": 55,
+      "word": "nebula",
+      "hint": "a common word"
+    },
+    {
+      "level": 56,
+      "word": "parrot",
+      "hint": "an animal"
+    },
+    {
+      "level": 57,
+      "word": "rainbow",
+      "hint": "a natural"
+    },
+    {
+      "level": 58,
+      "word": "saturn",
+      "hint": "a common word"
+    },
+    {
+      "level": 59,
+      "word": "utensil",
+      "hint": "a common word"
+    },
+    {
+      "level": 60,
+      "word": "volcano",
+      "hint": "a natural"
+    },
+    {
+      "level": 61,
+      "word": "waffle",
+      "hint": "a fruit"
+    },
+    {
+      "level": 62,
+      "word": "zipper",
+      "hint": "an object"
+    },
+    {
+      "level": 63,
+      "word": "archer",
+      "hint": "a common word"
+    },
+    {
+      "level": 64,
+      "word": "beacon",
+      "hint": "a common word"
+    },
+    {
+      "level": 65,
+      "word": "cactus",
+      "hint": "a common word"
+    },
+    {
+      "level": 66,
+      "word": "dolphin",
+      "hint": "an animal"
+    },
+    {
+      "level": 67,
+      "word": "escalator",
+      "hint": "a common word"
+    },
+    {
+      "level": 68,
+      "word": "fountain",
+      "hint": "a common word"
+    },
+    {
+      "level": 69,
+      "word": "goblet",
+      "hint": "a common word"
+    },
+    {
+      "level": 70,
+      "word": "iguana",
+      "hint": "an animal"
+    },
+    {
+      "level": 71,
+      "word": "kettle",
+      "hint": "a tool"
+    },
+    {
+      "level": 72,
+      "word": "lizard",
+      "hint": "an animal"
+    },
+    {
+      "level": 73,
+      "word": "mammoth",
+      "hint": "a common word"
+    },
+    {
+      "level": 74,
+      "word": "nectar",
+      "hint": "a common word"
+    },
+    {
+      "level": 75,
+      "word": "oyster",
+      "hint": "an animal"
+    },
+    {
+      "level": 76,
+      "word": "pebble",
+      "hint": "a natural"
+    },
+    {
+      "level": 77,
+      "word": "quokka",
+      "hint": "a common word"
+    },
+    {
+      "level": 78,
+      "word": "sphinx",
+      "hint": "a common word"
+    },
+    {
+      "level": 79,
+      "word": "treasure",
+      "hint": "a common word"
+    },
+    {
+      "level": 80,
+      "word": "urchin",
+      "hint": "an animal"
+    },
+    {
+      "level": 81,
+      "word": "vortex",
+      "hint": "an object"
+    },
+    {
+      "level": 82,
+      "word": "zinnia",
+      "hint": "a common word"
+    },
+    {
+      "level": 83,
+      "word": "bucket",
+      "hint": "a tool"
+    },
+    {
+      "level": 84,
+      "word": "domino",
+      "hint": "a common word"
+    },
+    {
+      "level": 85,
+      "word": "eraser",
+      "hint": "a tool"
+    },
+    {
+      "level": 86,
+      "word": "beetle",
+      "hint": "an animal"
+    },
+    {
+      "level": 87,
+      "word": "kitten",
+      "hint": "an animal"
+    },
+    {
+      "level": 88,
+      "word": "artist",
+      "hint": "a job"
+    },
+    {
+      "level": 89,
+      "word": "bottle",
+      "hint": "a common word"
+    },
+    {
+      "level": 90,
+      "word": "church",
+      "hint": "a place"
+    },
+    {
+      "level": 91,
+      "word": "college",
+      "hint": "a common word"
+    },
+    {
+      "level": 92,
+      "word": "computer",
+      "hint": "a common word"
+    },
+    {
+      "level": 93,
+      "word": "doctor",
+      "hint": "a job"
+    },
+    {
+      "level": 94,
+      "word": "family",
+      "hint": "a common word"
+    },
+    {
+      "level": 95,
+      "word": "father",
+      "hint": "a job"
+    },
+    {
+      "level": 96,
+      "word": "flower",
+      "hint": "a natural"
+    },
+    {
+      "level": 97,
+      "word": "friend",
+      "hint": "a job"
+    },
+    {
+      "level": 98,
+      "word": "garden",
+      "hint": "a common word"
+    },
+    {
+      "level": 99,
+      "word": "ground",
+      "hint": "a natural"
+    },
+    {
+      "level": 100,
+      "word": "hospital",
+      "hint": "a place"
+    },
+    {
+      "level": 101,
+      "word": "kitchen",
+      "hint": "a place"
+    },
+    {
+      "level": 102,
+      "word": "letter",
+      "hint": "a common word"
+    },
+    {
+      "level": 103,
+      "word": "market",
+      "hint": "a place"
+    },
+    {
+      "level": 104,
+      "word": "mother",
+      "hint": "a job"
+    },
+    {
+      "level": 105,
+      "word": "office",
+      "hint": "a place"
+    },
+    {
+      "level": 106,
+      "word": "police",
+      "hint": "a job"
+    },
+    {
+      "level": 107,
+      "word": "school",
+      "hint": "a place"
+    },
+    {
+      "level": 108,
+      "word": "sister",
+      "hint": "a job"
+    },
+    {
+      "level": 109,
+      "word": "street",
+      "hint": "a common word"
+    },
+    {
+      "level": 110,
+      "word": "student",
+      "hint": "a job"
+    },
+    {
+      "level": 111,
+      "word": "teacher",
+      "hint": "a job"
+    },
+    {
+      "level": 112,
+      "word": "theater",
+      "hint": "a place"
+    }
+  ]
+}
