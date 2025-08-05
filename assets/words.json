@@ -1,564 +1,254 @@
 {
   "words": [
-    {
-      "level": 1,
-      "word": "banana",
-      "hint": "a yellow fruit"
-    },
-    {
-      "level": 2,
-      "word": "camera",
-      "hint": "used to take pictures"
-    },
-    {
-      "level": 3,
-      "word": "desert",
-      "hint": "a dry sandy area"
-    },
-    {
-      "level": 4,
-      "word": "engine",
-      "hint": "machine that powers vehicles"
-    },
-    {
-      "level": 5,
-      "word": "forest",
-      "hint": "a large area with many trees"
-    },
-    {
-      "level": 6,
-      "word": "guitar",
-      "hint": "a musical instrument"
-    },
-    {
-      "level": 7,
-      "word": "helmet",
-      "hint": "protects your head"
-    },
-    {
-      "level": 8,
-      "word": "island",
-      "hint": "land surrounded by water"
-    },
-    {
-      "level": 9,
-      "word": "jungle",
-      "hint": "dense tropical forest"
-    },
-    {
-      "level": 10,
-      "word": "keyboard",
-      "hint": "used for typing"
-    },
-    {
-      "level": 11,
-      "word": "ladder",
-      "hint": "used to climb up"
-    },
-    {
-      "level": 12,
-      "word": "mountain",
-      "hint": "a very tall hill"
-    },
-    {
-      "level": 13,
-      "word": "notebook",
-      "hint": "used for writing notes"
-    },
-    {
-      "level": 14,
-      "word": "orange",
-      "hint": "a citrus fruit"
-    },
-    {
-      "level": 15,
-      "word": "pencil",
-      "hint": "used for writing or drawing"
-    },
-    {
-      "level": 16,
-      "word": "quartz",
-      "hint": "a mineral crystal"
-    },
-    {
-      "level": 17,
-      "word": "rocket",
-      "hint": "travels to space"
-    },
-    {
-      "level": 18,
-      "word": "sunset",
-      "hint": "the sun going down"
-    },
-    {
-      "level": 19,
-      "word": "tunnel",
-      "hint": "underground passage"
-    },
-    {
-      "level": 20,
-      "word": "umbrella",
-      "hint": "used in the rain"
-    },
-    {
-      "level": 21,
-      "word": "violin",
-      "hint": "a common word"
-    },
-    {
-      "level": 22,
-      "word": "window",
-      "hint": "an object"
-    },
-    {
-      "level": 23,
-      "word": "xylophone",
-      "hint": "a common word"
-    },
-    {
-      "level": 24,
-      "word": "yogurt",
-      "hint": "a fruit"
-    },
-    {
-      "level": 25,
-      "word": "airplane",
-      "hint": "a common word"
-    },
-    {
-      "level": 26,
-      "word": "bridge",
-      "hint": "a common word"
-    },
-    {
-      "level": 27,
-      "word": "castle",
-      "hint": "a common word"
-    },
-    {
-      "level": 28,
-      "word": "dragon",
-      "hint": "an animal"
-    },
-    {
-      "level": 29,
-      "word": "feather",
-      "hint": "a common word"
-    },
-    {
-      "level": 30,
-      "word": "glacier",
-      "hint": "a natural"
-    },
-    {
-      "level": 31,
-      "word": "harbor",
-      "hint": "a common word"
-    },
-    {
-      "level": 32,
-      "word": "jacket",
-      "hint": "a common word"
-    },
-    {
-      "level": 33,
-      "word": "lantern",
-      "hint": "a tool"
-    },
-    {
-      "level": 34,
-      "word": "magnet",
-      "hint": "a thing"
-    },
-    {
-      "level": 35,
-      "word": "needle",
-      "hint": "a tool"
-    },
-    {
-      "level": 36,
-      "word": "pirate",
-      "hint": "an animal"
-    },
-    {
-      "level": 37,
-      "word": "quiver",
-      "hint": "a common word"
-    },
-    {
-      "level": 38,
-      "word": "saddle",
-      "hint": "a common word"
-    },
-    {
-      "level": 39,
-      "word": "ticket",
-      "hint": "an object"
-    },
-    {
-      "level": 40,
-      "word": "unicorn",
-      "hint": "a common word"
-    },
-    {
-      "level": 41,
-      "word": "valley",
-      "hint": "a natural"
-    },
-    {
-      "level": 42,
-      "word": "whistle",
-      "hint": "a common word"
-    },
-    {
-      "level": 43,
-      "word": "zeppelin",
-      "hint": "a common word"
-    },
-    {
-      "level": 44,
-      "word": "anchor",
-      "hint": "an object"
-    },
-    {
-      "level": 45,
-      "word": "balloon",
-      "hint": "an object"
-    },
-    {
-      "level": 46,
-      "word": "candle",
-      "hint": "a common word"
-    },
-    {
-      "level": 47,
-      "word": "diamond",
-      "hint": "a thing"
-    },
-    {
-      "level": 48,
-      "word": "emerald",
-      "hint": "a common word"
-    },
-    {
-      "level": 49,
-      "word": "fossil",
-      "hint": "an object"
-    },
-    {
-      "level": 50,
-      "word": "geyser",
-      "hint": "a natural"
-    },
-    {
-      "level": 51,
-      "word": "hammock",
-      "hint": "a common word"
-    },
-    {
-      "level": 52,
-      "word": "inkwell",
-      "hint": "a common word"
-    },
-    {
-      "level": 53,
-      "word": "lighthouse",
-      "hint": "a common word"
-    },
-    {
-      "level": 54,
-      "word": "mirror",
-      "hint": "a tool"
-    },
-    {
-      "level": 55,
-      "word": "nebula",
-      "hint": "a common word"
-    },
-    {
-      "level": 56,
-      "word": "parrot",
-      "hint": "an animal"
-    },
-    {
-      "level": 57,
-      "word": "rainbow",
-      "hint": "a natural"
-    },
-    {
-      "level": 58,
-      "word": "saturn",
-      "hint": "a common word"
-    },
-    {
-      "level": 59,
-      "word": "utensil",
-      "hint": "a common word"
-    },
-    {
-      "level": 60,
-      "word": "volcano",
-      "hint": "a natural"
-    },
-    {
-      "level": 61,
-      "word": "waffle",
-      "hint": "a fruit"
-    },
-    {
-      "level": 62,
-      "word": "zipper",
-      "hint": "an object"
-    },
-    {
-      "level": 63,
-      "word": "archer",
-      "hint": "a common word"
-    },
-    {
-      "level": 64,
-      "word": "beacon",
-      "hint": "a common word"
-    },
-    {
-      "level": 65,
-      "word": "cactus",
-      "hint": "a common word"
-    },
-    {
-      "level": 66,
-      "word": "dolphin",
-      "hint": "an animal"
-    },
-    {
-      "level": 67,
-      "word": "escalator",
-      "hint": "a common word"
-    },
-    {
-      "level": 68,
-      "word": "fountain",
-      "hint": "a common word"
-    },
-    {
-      "level": 69,
-      "word": "goblet",
-      "hint": "a common word"
-    },
-    {
-      "level": 70,
-      "word": "iguana",
-      "hint": "an animal"
-    },
-    {
-      "level": 71,
-      "word": "kettle",
-      "hint": "a tool"
-    },
-    {
-      "level": 72,
-      "word": "lizard",
-      "hint": "an animal"
-    },
-    {
-      "level": 73,
-      "word": "mammoth",
-      "hint": "a common word"
-    },
-    {
-      "level": 74,
-      "word": "nectar",
-      "hint": "a common word"
-    },
-    {
-      "level": 75,
-      "word": "oyster",
-      "hint": "an animal"
-    },
-    {
-      "level": 76,
-      "word": "pebble",
-      "hint": "a natural"
-    },
-    {
-      "level": 77,
-      "word": "quokka",
-      "hint": "a common word"
-    },
-    {
-      "level": 78,
-      "word": "sphinx",
-      "hint": "a common word"
-    },
-    {
-      "level": 79,
-      "word": "treasure",
-      "hint": "a common word"
-    },
-    {
-      "level": 80,
-      "word": "urchin",
-      "hint": "an animal"
-    },
-    {
-      "level": 81,
-      "word": "vortex",
-      "hint": "an object"
-    },
-    {
-      "level": 82,
-      "word": "zinnia",
-      "hint": "a common word"
-    },
-    {
-      "level": 83,
-      "word": "bucket",
-      "hint": "a tool"
-    },
-    {
-      "level": 84,
-      "word": "domino",
-      "hint": "a common word"
-    },
-    {
-      "level": 85,
-      "word": "eraser",
-      "hint": "a tool"
-    },
-    {
-      "level": 86,
-      "word": "beetle",
-      "hint": "an animal"
-    },
-    {
-      "level": 87,
-      "word": "kitten",
-      "hint": "an animal"
-    },
-    {
-      "level": 88,
-      "word": "artist",
-      "hint": "a job"
-    },
-    {
-      "level": 89,
-      "word": "bottle",
-      "hint": "a common word"
-    },
-    {
-      "level": 90,
-      "word": "church",
-      "hint": "a place"
-    },
-    {
-      "level": 91,
-      "word": "college",
-      "hint": "a common word"
-    },
-    {
-      "level": 92,
-      "word": "computer",
-      "hint": "a common word"
-    },
-    {
-      "level": 93,
-      "word": "doctor",
-      "hint": "a job"
-    },
-    {
-      "level": 94,
-      "word": "family",
-      "hint": "a common word"
-    },
-    {
-      "level": 95,
-      "word": "father",
-      "hint": "a job"
-    },
-    {
-      "level": 96,
-      "word": "flower",
-      "hint": "a natural"
-    },
-    {
-      "level": 97,
-      "word": "friend",
-      "hint": "a job"
-    },
-    {
-      "level": 98,
-      "word": "garden",
-      "hint": "a common word"
-    },
-    {
-      "level": 99,
-      "word": "ground",
-      "hint": "a natural"
-    },
-    {
-      "level": 100,
-      "word": "hospital",
-      "hint": "a place"
-    },
-    {
-      "level": 101,
-      "word": "kitchen",
-      "hint": "a place"
-    },
-    {
-      "level": 102,
-      "word": "letter",
-      "hint": "a common word"
-    },
-    {
-      "level": 103,
-      "word": "market",
-      "hint": "a place"
-    },
-    {
-      "level": 104,
-      "word": "mother",
-      "hint": "a job"
-    },
-    {
-      "level": 105,
-      "word": "office",
-      "hint": "a place"
-    },
-    {
-      "level": 106,
-      "word": "police",
-      "hint": "a job"
-    },
-    {
-      "level": 107,
-      "word": "school",
-      "hint": "a place"
-    },
-    {
-      "level": 108,
-      "word": "sister",
-      "hint": "a job"
-    },
-    {
-      "level": 109,
-      "word": "street",
-      "hint": "a common word"
-    },
-    {
-      "level": 110,
-      "word": "student",
-      "hint": "a job"
-    },
-    {
-      "level": 111,
-      "word": "teacher",
-      "hint": "a job"
-    },
-    {
-      "level": 112,
-      "word": "theater",
-      "hint": "a place"
-    }
-  ]
+  { "level": 1, "word": "banana", "hint": "yellow curved fruit" },
+  { "level": 2, "word": "camera", "hint": "takes pictures" },
+  { "level": 3, "word": "desert", "hint": "hot dry land" },
+  { "level": 4, "word": "engine", "hint": "powers machines" },
+  { "level": 5, "word": "forest", "hint": "many tall trees" },
+  { "level": 6, "word": "guitar", "hint": "stringed instrument" },
+  { "level": 7, "word": "helmet", "hint": "head protection gear" },
+  { "level": 8, "word": "island", "hint": "land in water" },
+  { "level": 9, "word": "jungle", "hint": "thick tropical forest" },
+  { "level": 10, "word": "keyboard", "hint": "used for typing" },
+  { "level": 11, "word": "ladder", "hint": "used to climb" },
+  { "level": 12, "word": "mountain", "hint": "tall natural hill" },
+  { "level": 13, "word": "notebook", "hint": "writing paper book" },
+  { "level": 14, "word": "orange", "hint": "round citrus fruit" },
+  { "level": 15, "word": "pencil", "hint": "writing or drawing" },
+  { "level": 16, "word": "quartz", "hint": "hard white crystal" },
+  { "level": 17, "word": "rocket", "hint": "flies to space" },
+  { "level": 18, "word": "sunset", "hint": "evening sun view" },
+  { "level": 19, "word": "tunnel", "hint": "underground passageway" },
+  { "level": 20, "word": "umbrella", "hint": "rain cover tool" },
+  { "level": 21, "word": "violin", "hint": "bowed string instrument" },
+  { "level": 22, "word": "window", "hint": "glass wall opening" },
+  { "level": 23, "word": "xylophone", "hint": "wooden bar instrument" },
+  { "level": 24, "word": "yogurt", "hint": "creamy dairy snack" },
+  { "level": 25, "word": "airplane", "hint": "flies in sky" },
+  { "level": 26, "word": "bridge", "hint": "connects two places" },
+  { "level": 27, "word": "castle", "hint": "old stone fortress" },
+  { "level": 28, "word": "dragon", "hint": "mythical fire creature" },
+  { "level": 29, "word": "feather", "hint": "bird body cover" },
+  { "level": 30, "word": "glacier", "hint": "moving ice mass" },
+  { "level": 31, "word": "harbor", "hint": "ship resting area" },
+  { "level": 32, "word": "jacket", "hint": "outer body wear" },
+  { "level": 33, "word": "lantern", "hint": "portable light source" },
+  { "level": 34, "word": "magnet", "hint": "attracts metal objects" },
+  { "level": 35, "word": "needle", "hint": "sharp sewing tool" },
+  { "level": 36, "word": "pirate", "hint": "sea robber character" },
+  { "level": 37, "word": "quiver", "hint": "holds arrows container" },
+  { "level": 38, "word": "saddle", "hint": "horse riding seat" },
+  { "level": 39, "word": "ticket", "hint": "entry pass card" },
+  { "level": 40, "word": "unicorn", "hint": "mythical horn horse" },
+  { "level": 41, "word": "valley", "hint": "low land area" },
+  { "level": 42, "word": "whistle", "hint": "makes sharp sound" },
+  { "level": 43, "word": "zeppelin", "hint": "airship balloon vehicle" },
+  { "level": 44, "word": "anchor", "hint": "keeps ship steady" },
+  { "level": 45, "word": "balloon", "hint": "filled with air" },
+  { "level": 46, "word": "candle", "hint": "wax light stick" },
+  { "level": 47, "word": "diamond", "hint": "precious clear gem" },
+  { "level": 48, "word": "emerald", "hint": "green precious gem" },
+  { "level": 49, "word": "fossil", "hint": "ancient preserved remains" },
+  { "level": 50, "word": "geyser", "hint": "hot water burst" },
+  { "level": 51, "word": "hammock", "hint": "hanging fabric bed" },
+  { "level": 52, "word": "inkwell", "hint": "holds writing ink" },
+  { "level": 53, "word": "lighthouse", "hint": "guides ships home" },
+  { "level": 54, "word": "mirror", "hint": "shows your reflection" },
+  { "level": 55, "word": "nebula", "hint": "cloud in space" },
+  { "level": 56, "word": "parrot", "hint": "talking tropical bird" },
+  { "level": 57, "word": "rainbow", "hint": "colorful sky arc" },
+  { "level": 58, "word": "saturn", "hint": "planet with rings" },
+  { "level": 59, "word": "utensil", "hint": "kitchen hand tool" },
+  { "level": 60, "word": "volcano", "hint": "erupts hot lava" },
+  { "level": 61, "word": "waffle", "hint": "grid breakfast food" },
+  { "level": 62, "word": "zipper", "hint": "closes clothing" },
+  { "level": 63, "word": "archer", "hint": "bow and arrow" },
+  { "level": 64, "word": "beacon", "hint": "warning light tower" },
+  { "level": 65, "word": "cactus", "hint": "desert plant spikes" },
+  { "level": 66, "word": "dolphin", "hint": "smart sea animal" },
+  { "level": 67, "word": "escalator", "hint": "moving stairs" },
+  { "level": 68, "word": "fountain", "hint": "sprays water upward" },
+  { "level": 69, "word": "goblet", "hint": "fancy drinking cup" },
+  { "level": 70, "word": "iguana", "hint": "green lizard reptile" },
+  { "level": 71, "word": "kettle", "hint": "boils hot water" },
+  { "level": 72, "word": "lizard", "hint": "scaly crawling animal" },
+  { "level": 73, "word": "mammoth", "hint": "huge ancient animal" },
+  { "level": 74, "word": "nectar", "hint": "sweet flower juice" },
+  { "level": 75, "word": "oyster", "hint": "shell sea creature" },
+  { "level": 76, "word": "pebble", "hint": "small smooth stone" },
+  { "level": 77, "word": "quokka", "hint": "cute Australian animal" },
+  { "level": 78, "word": "sphinx", "hint": "stone lion statue" },
+  { "level": 79, "word": "treasure", "hint": "hidden valuable items" },
+  { "level": 80, "word": "urchin", "hint": "spiky sea animal" },
+  { "level": 81, "word": "vortex", "hint": "swirling air motion" },
+  { "level": 82, "word": "zinnia", "hint": "bright garden flower" },
+  { "level": 83, "word": "bucket", "hint": "holds liquid load" },
+  { "level": 84, "word": "domino", "hint": "tile game piece" },
+  { "level": 85, "word": "eraser", "hint": "removes pencil marks" },
+  { "level": 86, "word": "beetle", "hint": "hard shell insect" },
+  { "level": 87, "word": "kitten", "hint": "young baby cat" },
+  { "level": 88, "word": "artist", "hint": "creates visual art" },
+  { "level": 89, "word": "bottle", "hint": "holds liquids" },
+  { "level": 90, "word": "church", "hint": "place of worship" },
+  { "level": 91, "word": "college", "hint": "higher education school" },
+  { "level": 92, "word": "computer", "hint": "digital information device" },
+  { "level": 93, "word": "doctor", "hint": "treats the sick" },
+  { "level": 94, "word": "family", "hint": "group of relatives" },
+  { "level": 95, "word": "father", "hint": "male parent figure" },
+  { "level": 96, "word": "flower", "hint": "colorful plant bloom" },
+  { "level": 97, "word": "friend", "hint": "close companion person" },
+  { "level": 98, "word": "garden", "hint": "plants and flowers" },
+  { "level": 99, "word": "ground", "hint": "solid earth surface" },
+  { "level": 100, "word": "hospital", "hint": "place for treatment" },
+  { "level": 101, "word": "kitchen", "hint": "room for cooking" },
+  { "level": 102, "word": "letter", "hint": "written message" },
+  { "level": 103, "word": "market", "hint": "place to buy" },
+  { "level": 104, "word": "mother", "hint": "female parent" },
+  { "level": 105, "word": "office", "hint": "workplace room" },
+  { "level": 106, "word": "police", "hint": "law enforcement" },
+  { "level": 107, "word": "school", "hint": "learning place" },
+  { "level": 108, "word": "sister", "hint": "female sibling" },
+  { "level": 109, "word": "street", "hint": "public road" },
+  { "level": 110, "word": "student", "hint": "person in school" },
+  { "level": 111, "word": "teacher", "hint": "gives lessons" },
+  { "level": 112, "word": "theater", "hint": "watch performances" },
+  { "level": 113, "word": "abandon",   "hint": "to leave behind" },
+  { "level": 114, "word": "breeze",    "hint": "gentle wind" },
+  { "level": 115, "word": "crystal",   "hint": "a clear gem" },
+  { "level": 116, "word": "dolphin",   "hint": "marine mammal" },
+  { "level": 117, "word": "echo",      "hint": "sound reflection" },
+  { "level": 118, "word": "feather",   "hint": "bird covering" },
+  { "level": 119, "word": "galaxy",    "hint": "stars system" },
+  { "level": 120, "word": "harvest",   "hint": "crop gathering" },
+  { "level": 121, "word": "inspire",   "hint": "to motivate" },
+  { "level": 122, "word": "journey",   "hint": "travel experience" },
+  { "level": 123, "word": "kingdom",   "hint": "land ruled by king" },
+  { "level": 124, "word": "lantern",   "hint": "portable light" },
+  { "level": 125, "word": "meadow",    "hint": "grassland field" },
+  { "level": 126, "word": "nectar",    "hint": "flower sweet juice" },
+  { "level": 127, "word": "oasis",     "hint": "water in desert" },
+  { "level": 128, "word": "pirate",    "hint": "sea thief" },
+  { "level": 129, "word": "quiver",    "hint": "arrows container" },
+  { "level": 130, "word": "ripple",    "hint": "small wave" },
+  { "level": 131, "word": "saddle",    "hint": "seat on a horse" },
+  { "level": 132, "word": "treasure",  "hint": "hidden riches" },
+  { "level": 133, "word": "uplift",    "hint": "raise up" },
+  { "level": 134, "word": "vortex",    "hint": "rotating current" },
+  { "level": 135, "word": "whisper",   "hint": "speak softly" },
+  { "level": 136, "word": "yearn",     "hint": "long for something" },
+  { "level": 137, "word": "zephyr",    "hint": "a gentle breeze" },
+  { "level": 138, "word": "anchor",    "hint": "keeps ship still" },
+  { "level": 139, "word": "bubble",    "hint": "air in soap" },
+  { "level": 140, "word": "caravan",   "hint": "traveling group" },
+  { "level": 141, "word": "diagram",   "hint": "drawn plan" },
+  { "level": 142, "word": "emerald",   "hint": "green gemstone" },
+  { "level": 143, "word": "fountain",  "hint": "water feature" },
+  { "level": 144, "word": "goblet",    "hint": "drinking cup" },
+  { "level": 145, "word": "harbor",    "hint": "sheltered port" },
+  { "level": 146, "word": "illusion",  "hint": "false perception" },
+  { "level": 147, "word": "jigsaw",    "hint": "puzzle piece" },
+  { "level": 148, "word": "kingpin",   "hint": "main person" },
+  { "level": 149, "word": "lighthouse","hint": "guides ships" },
+  { "level": 150, "word": "monarch",   "hint": "royal ruler" },
+  { "level": 151, "word": "nectarine", "hint": "juicy fruit" },
+  { "level": 152, "word": "octagon",   "hint": "eight‑sided shape" },
+  { "level": 153, "word": "pinnacle",  "hint": "highest point" },
+  { "level": 154, "word": "quagmire",  "hint": "muddy situation" },
+  { "level": 155, "word": "raccoon",   "hint": "masked mammal" },
+  { "level": 156, "word": "sculpture", "hint": "carved artwork" },
+  { "level": 157, "word": "thunder",   "hint": "loud storm sound" },
+  { "level": 158, "word": "umbrella",  "hint": "rain protector" },
+  { "level": 159, "word": "voyage",    "hint": "long journey" },
+  { "level": 160, "word": "wildfire",  "hint": "forest blaze" },
+  { "level": 161, "word": "xenon",     "hint": "a noble gas" },
+  { "level": 162, "word": "yonder",    "hint": "over there" },
+  { "level": 163, "word": "zealous",   "hint": "passionately eager" },
+  { "level": 164, "word": "almond",    "hint": "edible seed" },
+  { "level": 165, "word": "barrier",   "hint": "something that blocks" },
+  { "level": 166, "word": "canyon",    "hint": "deep valley" },
+  { "level": 167, "word": "dazzle",    "hint": "impress greatly" },
+  { "level": 168, "word": "enigma",    "hint": "mystery" },
+  { "level": 169, "word": "fragrant",  "hint": "pleasant smelling" },
+  { "level": 170, "word": "granite",   "hint": "hard rock" },
+  { "level": 171, "word": "journey",    "hint": "a long trip" },
+  { "level": 172, "word": "fiction",    "hint": "imaginary story" },
+  { "level": 173, "word": "blanket",    "hint": "used for warmth" },
+  { "level": 174, "word": "tractor",    "hint": "used on a farm" },
+  { "level": 175, "word": "sandwich",   "hint": "food with layers" },
+  { "level": 176, "word": "compass",    "hint": "shows direction" },
+  { "level": 177, "word": "festival",   "hint": "celebration event" },
+  { "level": 178, "word": "glasses",    "hint": "helps you see" },
+  { "level": 179, "word": "handshake",  "hint": "greeting gesture" },
+  { "level": 180, "word": "identify",   "hint": "to recognize" },
+  { "level": 181, "word": "jeweller",   "hint": "makes ornaments" },
+  { "level": 182, "word": "kingfish",   "hint": "a large fish" },
+  { "level": 183, "word": "luggage",    "hint": "used for travel" },
+  { "level": 184, "word": "machine",    "hint": "a mechanical device" },
+  { "level": 185, "word": "network",    "hint": "a connection system" },
+  { "level": 186, "word": "organic",    "hint": "grown naturally" },
+  { "level": 187, "word": "package",    "hint": "wrapped item" },
+  { "level": 188, "word": "quarter",    "hint": "one-fourth part" },
+  { "level": 189, "word": "railroad",   "hint": "trains run on it" },
+  { "level": 190, "word": "cabinet",    "hint": "used for storage" },
+  { "level": 191, "word": "scenery",     "hint": "natural view" },
+  { "level": 192, "word": "teacher",     "hint": "educates students" },
+  { "level": 193, "word": "utility",     "hint": "useful service" },
+  { "level": 194, "word": "vacation",    "hint": "time off work" },
+  { "level": 195, "word": "weather",     "hint": "rain, sun, snow" },
+  { "level": 196, "word": "zoologist",   "hint": "animal scientist" },
+  { "level": 197, "word": "airport",     "hint": "where planes land" },
+  { "level": 198, "word": "battery",     "hint": "stores power" },
+  { "level": 199, "word": "carriage",    "hint": "pulled by horses" },
+  { "level": 200, "word": "diamond",     "hint": "precious gem" },
+  { "level": 201, "word": "explorer",    "hint": "one who discovers" },
+  { "level": 202, "word": "forehead",    "hint": "top of the face" },
+  { "level": 203, "word": "grateful",    "hint": "full of thanks" },
+  { "level": 204, "word": "harvest",     "hint": "collect crops" },
+  { "level": 205, "word": "internet",    "hint": "online world" },
+  { "level": 206, "word": "journal",     "hint": "daily record" },
+  { "level": 207, "word": "kitchen",     "hint": "room for cooking" },
+  { "level": 208, "word": "library",     "hint": "place for books" },
+  { "level": 209, "word": "monster",     "hint": "scary creature" },
+  { "level": 210, "word": "notepad",     "hint": "used for notes" },
+  { "level": 211, "word": "orchard",     "hint": "fruit tree area" },
+  { "level": 212, "word": "painter",     "hint": "creates art" },
+  { "level": 213, "word": "quality",     "hint": "how good something is" },
+  { "level": 214, "word": "recycle",    "hint": "reuse waste" },
+  { "level": 215, "word": "sandbox",    "hint": "kids play here" },
+  { "level": 216, "word": "teacher",    "hint": "gives lessons" },
+  { "level": 217, "word": "unicorn",    "hint": "mythical horse" },
+  { "level": 218, "word": "village",    "hint": "small community" },
+  { "level": 219, "word": "wrapper",    "hint": "covers candy" },
+  { "level": 220, "word": "adapter",    "hint": "connects devices" },
+  { "level": 221, "word": "backpack",   "hint": "carried on back" },
+  { "level": 222, "word": "chimney",    "hint": "smoke goes up" },
+  { "level": 223, "word": "decimal",    "hint": "number with point" },
+  { "level": 224, "word": "elastic",    "hint": "stretches easily" },
+  { "level": 225, "word": "festival",   "hint": "celebration event" },
+  { "level": 226, "word": "giraffe",    "hint": "long neck animal" },
+  { "level": 227, "word": "hammock",    "hint": "used for relaxing" },
+  { "level": 228, "word": "imagine",    "hint": "picture in mind" },
+  { "level": 229, "word": "juggler",    "hint": "tosses things up" },
+  { "level": 230, "word": "karaoke",    "hint": "singing for fun" },
+  { "level": 231, "word": "luggage",    "hint": "suitcase set" },
+  { "level": 232, "word": "message",    "hint": "sent communication" },
+  { "level": 233, "word": "necklace",   "hint": "worn on neck" },
+  { "level": 234, "word": "observe",    "hint": "watch carefully" },
+  { "level": 235, "word": "package",    "hint": "wrapped item" },
+  { "level": 236, "word": "quarter",    "hint": "25 percent" },
+  { "level": 237, "word": "rescue",     "hint": "save from danger" },
+  { "level": 238, "word": "scooter",    "hint": "ride with wheels" },
+  { "level": 239, "word": "triplet",    "hint": "three siblings" },
+  { "level": 240, "word": "united",     "hint": "joined together" },
+  { "level": 241, "word": "visitor",    "hint": "temporary guest" },
+  { "level": 242, "word": "warrior",    "hint": "trained fighter" },
+  { "level": 243, "word": "xylophone",  "hint": "musical bars" },
+  { "level": 244, "word": "younger",    "hint": "not older" },
+  { "level": 245, "word": "zookeeper",  "hint": "cares for animals" },
+  { "level": 246, "word": "airport",    "hint": "for planes" },
+  { "level": 247, "word": "balance",    "hint": "stays even" },
+  { "level": 248, "word": "cabinet",    "hint": "for storage" },
+  { "level": 249, "word": "dentist",    "hint": "fixes teeth" },
+  { "level": 250, "word": "express",    "hint": "very fast" }
+]
 }
